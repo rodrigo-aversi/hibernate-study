@@ -17,6 +17,7 @@ public class Conta {
 	private String numero;
 	private String banco;
 	private Calendar dataCriacao;
+	private String novoAtributo2;
 
 	public String getTitular() {
 		return titular;
@@ -57,5 +58,7 @@ public class Conta {
 	public void setDataCriacao(Calendar dataCriacao) {
 		this.dataCriacao = dataCriacao;
 	}
+	
+	
 
 }

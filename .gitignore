@@ -1,3 +1,7 @@
 target/
 .metadata
 RemoteSystemsTempFiles
+.classpath
+.project
+schema.sql
+.settings/
